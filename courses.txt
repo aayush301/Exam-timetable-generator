@@ -1,0 +1,8 @@
+Algorithm design and Analysis
+Database Management Systems
+Operating systems
+Data Structures
+Computer Organization
+Digital Electronics
+Discrete Structures
+Software Engineering

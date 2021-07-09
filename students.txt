@@ -1,0 +1,28 @@
+Ravi:
+Algorithm design and Analysis
+Database Management Systems
+Operating systems
+Computer Organization
+Digital Electronics
+
+Rohan:
+Database Management Systems
+Computer Organization
+Digital Electronics
+Discrete Structures
+Software Engineering
+
+Vivek:
+Database Management Systems
+Computer Organization
+Digital Electronics
+Discrete Structures
+Software Engineering
+
+Ansh:
+Algorithm design and Analysis
+Database Management Systems
+Operating systems
+Computer Organization
+Digital Electronics
+
